@@ -13,28 +13,14 @@ I enjoy tackling complex problems, learning new technologies, and continuously i
 - 💯 [My github team - YYDev](https://github.com/Y-YDev)
 
 ---
-### 💻 Programming Languages
-- TypeScript  
-- Java  
-- C#  
-- Python  
+## 🛠️ Skills Overview
 
-### ⚙️ Frameworks & Softs
-- React  
-- Node.js
-- Unity 
-- Docker  
-
-### 📅 Databases
-- MongoDB  
-- SQL
-- Postgres
-
-### 🧰 Tools
-- VS Code / Visual Studio  
-- Figma  
-- Azure DevOps  
-- AccelQ  
+| 💻 Languages | ⚙️ Frameworks & Tech |📅 Databases | 🧰 Tools |
+|-------------|----------------------|-------------|----------|
+| TypeScript  | React                |MongoDB     | VS Code / Visual Studio |
+| Java        | Node.js              |SQL         | Figma                  |
+| C#          | Docker               |PostgreSQL  | Azure DevOps           |
+| Python     | Unity                |            | AccelQ                 |
 
 ---
 

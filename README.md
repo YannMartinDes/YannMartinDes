@@ -19,7 +19,7 @@ I enjoy tackling complex problems, learning new technologies, and continuously i
 - C#  
 - Python  
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Softs
 - React  
 - Node.js
 - Unity 
